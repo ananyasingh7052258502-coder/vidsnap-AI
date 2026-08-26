@@ -1,0 +1,13 @@
+# VS Code 
+.vscode/
+
+# Python
+__pycache__/
+venv/
+*.pyc
+
+
+# ignore 
+dataset/
+user_uploads/
+*.mp4
