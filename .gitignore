@@ -11,3 +11,6 @@ venv/
 dataset/
 user_uploads/
 *.mp4
+*.jpeg
+*.jpg
+*.mp3

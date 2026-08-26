@@ -1,2 +1,0 @@
-file 'user_uploads/f602174b-871c-11f1-9e63-ec91619abb0c/4.jpg'
-duration 1
